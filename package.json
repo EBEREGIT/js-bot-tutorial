@@ -1,0 +1,27 @@
+{
+  "name": "js-bot-tutorial",
+  "version": "1.0.0",
+  "description": "This tutorial teaches us how to create a simple bot in JavaScript with the help of Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBEREGIT/js-bot-tutorial.git"
+  },
+  "keywords": [
+    "bot",
+    "javascript",
+    "puppeteer"
+  ],
+  "author": "Njoku Samson Ebere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EBEREGIT/js-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/EBEREGIT/js-bot-tutorial#readme",
+  "dependencies": {
+    "puppeteer": "^4.0.1"
+  }
+}
